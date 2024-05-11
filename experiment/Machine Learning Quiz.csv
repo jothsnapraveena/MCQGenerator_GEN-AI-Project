@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main focus of Machine Learning?,a: Improving computer hardware | b: Developing computer algorithms that improve through experience and data | c: Creating new programming languages | d: Enhancing internet speed,b
+How does machine learning differ from traditional programming?,a: Machine learning uses predefined instructions | b: Traditional programming uses data to make decisions | c: Machine learning learns from data and improves over time | d: Traditional programming does not involve data,c
+What is the main difference between AI and Machine Learning?,"a: AI focuses on creating algorithms, while Machine Learning focuses on computer hardware | b: AI mimics human intelligence, while Machine Learning uses data to make predictions | c: AI and Machine Learning are the same thing | d: AI is used for image recognition, while Machine Learning is used for language translation",b
+What is Deep Learning primarily based on?,a: Linear algorithms | b: Multi-layered artificial neural networks | c: Supervised learning | d: Unsupervised learning,b
+Which of the following is an example of a Deep Learning application?,a: Voice assistants | b: Predictive analytics | c: Image recognition | d: Cluster data points,c
