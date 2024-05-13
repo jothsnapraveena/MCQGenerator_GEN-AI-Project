@@ -36,7 +36,7 @@ def get_table_data(quiz_str):
             correct = value["correct"]
             quiz_table_data.append({"MCQ": mcq, "Choices": options, "Correct": correct})
         return quiz_table_data
-    except Exception as e:
-        traceback.print(type(e),e,e.__traceback__)
+    except Exception as ex:
+        traceback.print(type(ex),ex,ex.__traceback__)
         return False
     
