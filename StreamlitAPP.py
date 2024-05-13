@@ -11,7 +11,7 @@ from src.mcqgenerator.mcqgenerator import generate_evaluate_chain
 
 
 # loading json file
-with open(r'D:\GEN AI Project\response.json', 'r') as file:
+with open(r'response.json', 'r') as file:
     RESPONSE_JSON=json.load(file)
 
 # creating title for the app
